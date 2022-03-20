@@ -20,8 +20,11 @@
 				<h3 class="display-4">Debate Event Registration</h3>
 				<p class="lead text-success bg-light" style="font-weight: 600">${message}</p>
 				<p class="lead">
-					<a class="btn btn-primary btn-sm" href="/DebateRegistrationWebApplication/registration/" role="button">Home</a>
-					<a class="btn btn-primary btn-sm" href="/DebateRegistrationWebApplication/registration/registrations" role="button">View Registrations</a>
+					<a class="btn btn-primary btn-sm"
+						href="/DebateRegistrationWebApplication/registration/"
+						role="button">Home</a> <a class="btn btn-primary btn-sm"
+						href="/DebateRegistrationWebApplication/registration/registrations"
+						role="button">View Registrations</a>
 				</p>
 			</div>
 		</div>
